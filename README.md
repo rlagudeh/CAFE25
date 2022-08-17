@@ -8,4 +8,4 @@
 + Grid 적용
 + 깃허브 페이지로 베포
 
-[배포 주소](https://github.dev/rlagudeh/CAFE25)
+[배포 주소](https://rlagudeh.github.io/CAFE25/)
